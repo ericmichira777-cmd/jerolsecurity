@@ -20,7 +20,7 @@ if (burger && menu) {
 }
 
 //contact form
-const form = document.querySelector("#contact-form");
+/*const form = document.querySelector("#contact-form");
 if (form) {
   form.addEventListener("submit", (e) => {
     e.preventDefault();
@@ -34,7 +34,7 @@ if (form) {
     msg.textContent = `Thank you ${name}. Our team will contact you on ${phone} shortly.`;
     form.reset();
   });
-}
+}*/
 
 
 
